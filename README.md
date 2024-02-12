@@ -20,11 +20,6 @@
 
 <img align="right" height="150" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQABl8FMbMRuhRhTZ7acYgW8TXaib9J3bqWSwwIrUc92-2A9qP3"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/The-Silly-Glitch/The-Silly-Glitch/output/snake.svg" alt="Snake animation" />
 
 ###
 
