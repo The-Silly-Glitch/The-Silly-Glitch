@@ -1,36 +1,17 @@
-<h2 align="left">Hi 👋! My name is Hanish  and I'm a Student of Vellore Institute of Technology, Chennai, India.</h2>
+<h1 align="center">Hi 👋, I'm Hanish Vigneshwar</h1>
+<h3 align="center">A passionate CS Engineering Student from VIT Chennai, India.</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hanish-vigneshwar-r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-silly-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="the-silly-glitch" /> </p>
 
 <img align="right" height="150" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQABl8FMbMRuhRhTZ7acYgW8TXaib9J3bqWSwwIrUc92-2A9qP3"  />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hanish-vigneshwar-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanish-vigneshwar-r" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif"  />
+![](https://github-readme-stats.vercel.app/api?username=The-Silly-Glitch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-###
-
-<h1 align="left">View Count</h1>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/The-Silly-Glitch/count.svg?"  />
-
-###
