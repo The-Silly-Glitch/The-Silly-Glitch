@@ -74,17 +74,6 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: honeysh_kun
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
-          plugin_skyline_year: 2027
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
