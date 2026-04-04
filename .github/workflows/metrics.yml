@@ -28,7 +28,6 @@ jobs:
           user: The-Silly-Glitch
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_octicon: yes
           config_padding: 0
           config_timezone: Asia/Calcutta
