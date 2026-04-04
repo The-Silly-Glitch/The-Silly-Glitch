@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/The-Silly-Glitch
