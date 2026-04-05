@@ -13,3 +13,7 @@
 
 [<img align="left" width="390" alt="🦑" src="github-metrics.svg">](#)
 [<img align="right" width="390" alt="🦑" src="media.svg">](#)
+[<img align="left" src="happy_coder.gif" width="300">](#)
+[<img align="right" alt="335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440" src="https://github.com/user-attachments/assets/94df66b4-8d37-4dc3-bd4f-013da768dac3" width="800" />](#)
+
+
